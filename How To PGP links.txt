@@ -1,0 +1,15 @@
+https://www.maketecheasier.com/pgp-encryption-how-it-works/#get-started-with-pgp
+
+Windows:
+https://www.gpg4win.org/index.html
+
+Mac:
+https://gpgtools.org/
+
+How to send an encrypted email:
+https://offices.depaul.edu/information-services/security/security-guidance/how-do-i/Pages/email-encryption.aspx
+
+My public key:
+http://www.nyx.net/~bcohen/pgpkey.html
+
+
